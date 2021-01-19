@@ -1,5 +1,7 @@
 # librainry-web
 
+An application to show what books you've read, what you've learned from them, and why people should read those books too.
+
 ## Build Setup
 
 ```bash
