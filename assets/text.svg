@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="341.75098mm"
+   height="269.16519mm"
+   viewBox="0 0 341.75097 269.16519"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="text.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="1892.5624"
+     inkscape:cy="-4.2041765"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-227.68219,-27.000013)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.85587311px;line-height:0.69999999;font-family:MathJax_AMS;-inkscape-font-specification:MathJax_AMS;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26625219"
+       x="227.68219"
+       y="108.18543"
+       id="text10"><tspan
+         sodipodi:role="line"
+         x="227.68219"
+         y="108.18543"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.85587311px;line-height:0.69999999;font-family:MathJax_AMS;-inkscape-font-specification:MathJax_AMS;stroke-width:0.26625219"
+         id="tspan24">Li</tspan><tspan
+         sodipodi:role="line"
+         x="227.68219"
+         y="191.06189"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.85587311px;line-height:0.69999999;font-family:MathJax_AMS;-inkscape-font-specification:MathJax_AMS;stroke-width:0.26625219"
+         id="tspan28"> Brain</tspan><tspan
+         sodipodi:role="line"
+         x="227.68219"
+         y="273.93832"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.85587311px;line-height:0.69999999;font-family:MathJax_AMS;-inkscape-font-specification:MathJax_AMS;stroke-width:0.26625219"
+         id="tspan30">       ry</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,28.073002)"><flowRegion
+         id="flowRegion14"><rect
+           id="rect16"
+           width="779.83777"
+           height="189.90868"
+           x="-1794.0309"
+           y="757.81799" /></flowRegion><flowPara
+         id="flowPara18" /></flowRoot>  </g>
+</svg>
